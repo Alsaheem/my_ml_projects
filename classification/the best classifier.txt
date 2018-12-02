@@ -1,0 +1,15 @@
+# -*- coding: utf-8 -*-
+"""
+Created on Fri Nov  9 16:46:05 2018
+
+@author: ayo
+"""
+
+
+
+kernel svm classifier is the best classifier
+the svm is another good classifier 
+followed my the naive bias
+random forest
+decision tree
+logistic regression
